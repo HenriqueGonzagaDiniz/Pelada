@@ -1,1 +1,84 @@
-{ "jogadores": [], "ranking": [], "transacoes": [] }
+{
+  "jogadores": [
+    {
+      "nome": "Henrique",
+      "tipo": "mensalista",
+      "estrelas": 2,
+      "faltas": 0
+    },
+    {
+      "nome": "Junior",
+      "tipo": "mensalista",
+      "estrelas": 2,
+      "faltas": 0
+    },
+    {
+      "nome": "João Biondi",
+      "tipo": "mensalista",
+      "estrelas": 2,
+      "faltas": 0
+    },
+    {
+      "nome": "João",
+      "tipo": "mensalista",
+      "estrelas": 2,
+      "faltas": 0
+    },
+    {
+      "nome": "Raldney",
+      "tipo": "mensalista",
+      "estrelas": 2,
+      "faltas": 0
+    },
+    {
+      "nome": "Pr",
+      "tipo": "mensalista",
+      "estrelas": 1,
+      "faltas": 0
+    },
+    {
+      "nome": "Vieira",
+      "tipo": "mensalista",
+      "estrelas": 1,
+      "faltas": 0
+    },
+    {
+      "nome": "Guga",
+      "tipo": "mensalista",
+      "estrelas": 1,
+      "faltas": 0
+    },
+    {
+      "nome": "Danilo",
+      "tipo": "mensalista",
+      "estrelas": 3,
+      "faltas": 0
+    },
+    {
+      "nome": "Lucas",
+      "tipo": "mensalista",
+      "estrelas": 1,
+      "faltas": 0
+    },
+    {
+      "nome": "Sylvio",
+      "tipo": "mensalista",
+      "estrelas": 2,
+      "faltas": 0
+    },
+    {
+      "nome": "Belchior",
+      "tipo": "mensalista",
+      "estrelas": 2,
+      "faltas": 0
+    },
+    {
+      "nome": "Lubambo",
+      "tipo": "mensalista",
+      "estrelas": 2,
+      "faltas": 0
+    }
+  ],
+  "ranking": [],
+  "transacoes": []
+}
